@@ -11,5 +11,6 @@
 
     <modules>
         <module>auth-service</module>
+        <module>approval-service</module>
     </modules>
 </project>

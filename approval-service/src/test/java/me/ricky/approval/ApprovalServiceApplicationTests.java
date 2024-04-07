@@ -1,10 +1,10 @@
-package me.ricky.authservice;
+package me.ricky.approval;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AuthServiceApplicationTests {
+class ApprovalServiceApplicationTests {
 
     @Test
     void contextLoads() {
