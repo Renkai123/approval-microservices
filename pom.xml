@@ -10,7 +10,6 @@
     <name>approval-microservices</name>
 
     <modules>
-        <module>auth-service</module>
-        <module>approval-service</module>
+        <module>config-service</module>
     </modules>
 </project>
