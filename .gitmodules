@@ -1,3 +1,6 @@
 [submodule "config-service"]
 	path = config-service
 	url = https://github.com/Renkai123/config-service.git
+[submodule "approval-service"]
+	path = approval-service
+	url = https://github.com/Renkai123/approval-service.git
