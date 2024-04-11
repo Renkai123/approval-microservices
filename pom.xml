@@ -11,5 +11,6 @@
 
     <modules>
         <module>config-service</module>
+        <module>approval-service</module>
     </modules>
 </project>
